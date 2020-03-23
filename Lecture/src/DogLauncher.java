@@ -11,6 +11,6 @@ public class DogLauncher {
 		bigger.makeNoise();
 		//d.makeNoise();			//called d.makeNoise() instead of Dog.makeNoise()
 		System.out.println(Dog.binomen);
-		
+
 	}
 }
